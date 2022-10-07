@@ -1,0 +1,11 @@
+[
+  { "id": 1,  "name": "Diary of a Wimpy Kid",   "icon": "https://kbimages1-a.akamaihd.net/872d714c-d617-4c24-ae4d-73487b0e7b6c/353/569/90/False/diary-of-a-wimpy-kid-the-deep-end-book-15.jpg","price": { "USD": 3.26}, "type": "Comic" },
+  { "id": 2,  "name": "that night",  "icon": "https://m.media-amazon.com/images/I/81b1PP4RK1L.jpg",  "price": { "USD": 9.44}, "type": "Horror" },
+  { "id": 3,  "name": "The Famous Five","icon": "https://m.media-amazon.com/images/I/81Krp8WY10L.jpg","price": { "USD": 5.20}, "type": "Mystery" },
+  { "id": 4,  "name": "The Tower Treasure",    "icon": "https://bc-img.s3.ap-south-1.amazonaws.com/images/cover/bc/9780448089010_16588971970.jpg",    "price": { "USD": 0.95}, "type": "Mystery" },
+  { "id": 5,  "name": "Avengers","icon": "https://m.media-amazon.com/images/I/51Hs0LcWBbL.jpg","price": { "USD": 1.04}, "type": "Comic"     },
+  { "id": 6,  "name": "Rock paper Scissors", "icon": "https://m.media-amazon.com/images/I/71ZWE6eh3HS.jpg","price": { "USD": 4.82}, "type": "Horror" },
+  { "id": 7,  "name": "Spiderman","icon": "https://m.media-amazon.com/images/I/91AZA3f085L.jpg","price": { "USD": 7.53}, "type": "Comic" },
+  { "id": 8,  "name": "The Girl in the Glass Case","icon": "https://m.media-amazon.com/images/I/71bclxm1DCL.jpg","price": { "USD": 4.94}, "type": "Thriller"},
+  {"id": 9,  "name": "Diary of a Wimpy Kid",   "icon": "https://m.media-amazon.com/images/I/81R2N4PRuUL.jpg","price": { "USD": 3.26}, "type": "Comic" }
+  ]
